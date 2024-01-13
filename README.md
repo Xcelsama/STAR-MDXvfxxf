@@ -57,11 +57,10 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 - *I will Recommend You To Use Your own MongoDB Key So That You Will Not Face any Issue.*
 ##
 
-  ＊SET UP FOR EXCEL-MD-V2
+  †SET UP FOR  STAR-MDX†
 
     
-➤FORK THE REPOSITORY (Repo) 
-    
+➤FORK THE REPOSITORY (Repo)  
  <br>
 <a href="https://github.com/Xcelsama/STAR-MDX/fork"><img title="Excel-MDX" src="https://img.shields.io/badge/FORK STAR-MDX?color=black&style=for-the-badge&logo=stackshare"></a>
 
