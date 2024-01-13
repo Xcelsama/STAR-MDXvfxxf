@@ -1,14 +1,14 @@
 {
-  "name": "MAC-Md ",
+  "name": "STAR-MDX ",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/8ec95da555e8347af71bd.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "macbot", "mac","MACMD","theme bot","multi device","baileys","mac"],
+  "logo": "https://telegra.ph/file/cc375eff6677bacc5643d.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "STAR-MDX", "STARbot", "mac","MDX","theme bot","multi device","baileys","star"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "MAC"
+      "value": "EXCEL"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -32,7 +32,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/8ec95da555e8347af71bd.jpg"
+     "value": "https://telegra.ph/file/cc375eff6677bacc5643d.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -68,10 +68,10 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "256705036288"
+       "value": "2347045035241"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@Excelottah/BLACK-Md"
+    "description": "Please put your SESSION_ID here,if you don't have visit https://github.com/Xcelsama/STAR-MDX"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -84,7 +84,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are IZUKU,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "IZUKU"
+     "value": "FRIDAY"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -97,7 +97,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "MAC;MD",
+     "value": "STAR-MDX",
      "required": false 
   },
   "heroku": {
