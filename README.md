@@ -10,8 +10,6 @@
 </h2> 
 <p align="CENTER">𝐓𝐎 𝐋𝐄𝐀𝐑𝐍 𝐇𝐎𝐖 𝐓𝐎 𝐆𝐄𝐓
 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃
-<p align="CENTER">⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
-
 <p align="CENTER">
   <a href="https://github.com/Xcelsama/Excel_Tech_Info/blob/main/To%20get%20session%20id"><img title="Learn" src="https://img.shields.io/badge/learn-How-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
